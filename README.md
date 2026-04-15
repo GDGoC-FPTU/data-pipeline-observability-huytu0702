@@ -1,9 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23573940&assignment_repo_type=AssignmentRepo)
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student ID / GitHub Username:** huytu0702
-**Student Email:** tufy2k4@gmail.com
-**Name:** huytu0702
+**Student ID / GitHub Username:** 2A202600170 / huytu0702
+**Student Email:** tufy2k4@gmail.com / 26ai.tunh@vinuni.edu.vn
+**Name:** Nguyễn Huy Tú
 
 ---
 
